@@ -1,0 +1,18 @@
+.JobHeader_wrapper{
+padding-top: 2%;
+display: flex;
+justify-content: space-around;
+}
+
+.JobHeader_key_value{
+    font-size: 130% !important;
+    font-weight: 600 !important;
+    color: #333547;
+}
+
+.JobHeader_key {
+    font-size: 70% !important;
+    font-weight: 500 !important;
+    color: rgba(56, 61, 112, 0.5);
+    margin:0;
+}

@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.colors{
+  font_color_1:#F1EDEA;
+  font_color_2: #E6CDC0;
+  font_color_3:#A4A5AD ;
+  font_color_4:#D8E1F6;
+  bg_color_1:#F8F8FA;
+  
+  bg_color_2:#333547 ;
+  menu_color: #333547 ;
+  primary_color:#626ED4 ;
+}
+
+ 

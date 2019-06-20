@@ -1,0 +1,86 @@
+.Flex_parent {
+    display: flex;
+}
+
+.Flex_child {
+    flex-direction: row;
+}
+
+.Card_shadow {
+    -webkit-box-shadow: 2px 2px 12px 0 rgba(46, 61, 73, .2);
+    -moz-box-shadow: 2px 2px 12px 0 rgba(46, 61, 73, .2);
+    box-shadow: 2px 2px 12px 0 rgba(46, 61, 73, .2);
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transition: transform 0.4s;
+    -webkit-transition: transform 0.4s;
+    -moz-transition: transform 0.4s;
+    -ms-transition: transform 0.4s;
+    -o-transition: transform 0.4s;
+}
+
+
+.Card_prop {
+ 
+        border-radius: 3%;
+        background-color: #ffffff;
+
+
+}
+.Card_data{
+font-size: 150%;
+font-weight: 600;
+text-align: center;
+color: #040E71;
+}
+
+
+.Card_header {
+    margin: 0 0 2% 0;
+    font-size: 100%;
+    padding-top: 5%;
+    margin-bottom: -2%;
+    color: #6d7380;
+    text-align: center;
+}
+.BuildStatus_text{
+    font-weight: 500 ;
+    font-size: 80%;
+    color: rgb(150, 150, 150);
+    padding-top: 15% !important;
+
+}
+.BuildStatus_username{
+    font-weight: 700 !important;
+    font-size: 120%;
+    color: #172b4d;
+    text-transform: uppercase;
+    padding-top: 10% !important;
+    /* letter-spacing: 1px; */
+}
+.BuildStatus_icon{
+    color:#7c808a !important;
+    font-size: 750%;
+    padding: 0 7% !important;
+}
+.BuildStatus_field_key {
+    /* color:#5e6c84; */
+    color: rgb(150, 150, 150) ;
+    font-weight: 500 !important;
+    font-size: 70% !important;
+    margin-top: 8% !important;
+}
+.BuildStatus_field_value {
+    /* color:#5e6c84; */
+    color: #172b4d ;
+    font-weight: 500 !important;
+    font-size: 110%  !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+.red {
+    color: red !important;
+}

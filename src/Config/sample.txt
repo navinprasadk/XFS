@@ -1,0 +1,13 @@
+
+ #333547 
+ 
+ BG 
+ #F8F8FA 
+ #626ED4 
+ #333547 
+
+ font 
+ #F1EDEA
+ #E6CDC0 
+ #A4A5AD 
+ #D8E1F6
